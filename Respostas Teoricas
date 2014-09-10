@@ -1,0 +1,33 @@
+/*Respostas Teoricas */
+
+/* COMENTARIO COM A RESPOSTA DA QUESTÃO 1:
+  
+  A aplicação é criada em um editor e armazenada em disco(.java),
+apos isso, na compilação é gerado o Bytecode (.class), que é "tratado" pela 
+JMV - maquina virtual java, o Carregador de classes(classloader) carrega dos 
+bytecodes na memoria principal, apos isso, é feita a verificação de validação
+e a não violação das restrições de java, só depois disso o interpretador lê os 
+bytecodes e os traduz para a linguagem que o computador possa entender.*/
+
+/* COMENTARIO COM A RESPOSTA DA QUESTÃO 2:
+  
+  *Um estado(Atributos):
+    É dado por valores de atributos e pelas ligações que possuem com outros objetos, exemplos: "atributos de um carro: cor, peso,
+  altura;  
+  *Um comportamento(métodos):
+    Metodos são as "funções" ou comportamentos que possuem um objeto. Exemplo: funções de um carro: Ligar, Desligar, Buzinar;
+  *Interface(assinaturas):
+    São as assinaturas dos métodos. Exemplo: ligar(): void, desligar(): void;
+  *Identidade:
+  ???? */
+  
+/* COMENTARIO COM A RESPOSTA DA QUESTÃO 3:
+
+  É um paradigma de programação que "imita" como os objetos se interagem no mundo real, permitindo criar 
+programas componetizados, ou seja, separando em "partes" o sistema por resposabilidades. */
+
+/* COMENTARIO COM A RESPOSTA DA QUESTÃO 4:
+
+  Polimorfismo é o princípio pelo qual duas ou mais classes derivadas de uma mesma superclasse podem invocar 
+métodos que têm a mesma identificação, assinatura, mas comportamentos distintos.*/
+
