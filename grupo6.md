@@ -1,5 +1,6 @@
 # Gurpo 6
 
-| nome | sobrenome| gitHub  |   
-|---|---|---|
-|  jerson | Brito  | jersonb  |   
+| Nome | Sobrenome| GitHub | Linkedin |
+|:-:|:-:|:-:|:-:|
+| Jerson | Brito  | <https://github.com/jersonb> | <https://www.linkedin.com/in/jersonb/> |
+|||||
