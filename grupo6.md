@@ -7,4 +7,5 @@
 | Jessica | Neves| <https://github.com/jessic4neves> | <https://www.linkedin.com/in/jessic4neves/> |
 | Larissa | Santos | <https://github.com/Larii127> | <https://www.linkedin.com/in/larissa-santos-a2873a217/> |
 | Paulo | Renan | <https://github.com/PauloRenanB> | <https://www.linkedin.com/in/paulorenanb/> |
+| Thais | Vale | <https://github.com/tthaisvale> | <https://www.linkedin.com/in/tthaisbvale/> |
 |||||
