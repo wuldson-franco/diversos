@@ -1,7 +1,7 @@
 | Nome  | Sobrenome  | Github  |
 |---|---|---|
-| Ygor  | Sobrenome | https://github.com/farvillage |
-|   |   |   |
+| Ygor  |  Carvalho  | https://github.com/farvillage |
+|Sillas |   Senna    | https://github.com/sennags    |
 |   |   |   |
 |   |   |   |
 |   |   |   |
