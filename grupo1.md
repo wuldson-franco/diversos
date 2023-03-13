@@ -1,8 +1,9 @@
 | Nome  | Sobrenome  | Github  |
 |---|---|---|
-| João  |  Uchôa    |  https://github.com/jvuchoa   |
-| Ygor  |  Carvalho  | https://github.com/farvillage |
-|Sillas |   Senna    | https://github.com/sennags    |
+| Ygor  | Carvalho | https://github.com/farvillage |
+|   Diego   | Farias | https://github.com/diegofspb |
+| João  |  Uchôa   |  https://github.com/jvuchoa   |
+| Sillas |   Senna    | https://github.com/sennags    |
 |   |   |   |
 |   |   |   |
 |   |   |   |
