@@ -5,3 +5,4 @@
 | João  |  Uchôa    |  https://github.com/jvuchoa   |
 |Sillas |   Senna    | https://github.com/sennags    |
 |   Diego   | Farias | https://github.com/diegofspb |
+|   Iuri   | Medeiros | https://github.com/iurijampa |
