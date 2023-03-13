@@ -7,3 +7,4 @@
 |   Diego   | Farias | https://github.com/diegofspb |
 |   Iuri   | Medeiros | https://github.com/iurijampa |
 | Yann | Carvalho | https://github.com/yann-carvalho |
+| hercules  | aragao  | https://github.com/HerculesAragao  |
