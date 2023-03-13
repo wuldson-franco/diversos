@@ -6,7 +6,7 @@
 | Ian  | Guedes | <https://github.com/iangpm> | <https://www.linkedin.com/in/ian-guedes-58005326a/> |
 | Lavínia  | Luna  | <https://github.com/M4riaLav>  | <https://www.linkedin.com/in/lavínia-luna-1bb049269/>  |
 | Michel   | Nobrega |  <https://github.com/Michelzzz> |  
-|  Anderson | Victor | https://github.com/barrosanderson98  |  https://www.linkedin.com/in/anderson-barros-135523251/ |
+|  Anderson | Barros | https://github.com/barrosanderson98  |  https://www.linkedin.com/in/anderson-barros-135523251/ |
 |   |  |   |   |
 |||||
 
