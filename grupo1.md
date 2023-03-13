@@ -1,7 +1,7 @@
 | Nome  | Sobrenome  | Github  |
 |---|---|---|
-| Ygor  | Sobrenome | https://github.com/farvillage |
-|   |   |   |
+| Ygor  | Carvalho | https://github.com/farvillage |
+|   Diego   |   Farias | https://github.com/diegofspb |
 |   |   |   |
 |   |   |   |
 |   |   |   |
