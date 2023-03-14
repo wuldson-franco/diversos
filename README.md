@@ -1,11 +1,18 @@
-Pratica - Topicos Essenciais para Programação 
-===============
+# GRUPO 5
+Nome: Helison Pontes  
+Link: https://github.com/0helison  
+  
+Nome: Dilberto Meira  
+Link: https://github.com/DilbaM 
 
-* Criar Grupos, cada grupo, tem líder;
-  * Acessar um repositório disponibilizado pelo professor;
-  * Criar e inserir um arquivo (.txt ou .md) - LIDER DO GRUPO;
+Nome:  Felipe Pereira  
+Link:  https://github.com/fenyxpnt
 
-  * Todos deverão:
-    * Clonar o repositório;
-    * Alterar o arquivo;
-    * Subir o arquivo com a alteração;3
+Nome: Vinicius Abrantes  
+Link: https://github.com/Caim132
+
+Nome: Arthur Filipe  
+Link: https://github.com/Arthurfili04  
+  
+Nome: Yasmin Katharine  
+Link: https://github.com/YassKth  
