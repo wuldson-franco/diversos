@@ -8,3 +8,4 @@
 |   Iuri   | Medeiros | https://github.com/iurijampa |
 | Yann | Carvalho | https://github.com/yann-carvalho |
 | hercules  | aragao  | https://github.com/HerculesAragao  |
+| Vanessa | Costa | https://github.com/vanessacosta11
