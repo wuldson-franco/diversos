@@ -1,11 +1,11 @@
-Cimário Medeiros  
-https://github.com/cimarioazevedomedeiros  
+Pratica - Topicos Essenciais para Programação 
+===============
 
-Edilson Maria  
-https://github.com/EdilsonMaria
+* Criar Grupos, cada grupo, tem líder;
+  * Acessar um repositório disponibilizado pelo professor;
+  * Criar e inserir um arquivo (.txt ou .md) - LIDER DO GRUPO;
 
-Nayara Nascimento  
-https://github.com/NayaraSN 
-
-Gustavo Carreira   
-https://github.com/guscarreira
+  * Todos deverão:
+    * Clonar o repositório;
+    * Alterar o arquivo;
+    * Subir o arquivo com a alteração;3
