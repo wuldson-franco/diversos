@@ -12,4 +12,7 @@ Nome: Vinicius Abrantes
 Link: https://github.com/Caim132
 
 Nome: Arthur Filipe  
-Link: https://github.com/Arthurfili04
+Link: https://github.com/Arthurfili04  
+  
+Nome: Yasmin Katharine  
+Link: https://github.com/YassKth  
