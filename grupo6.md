@@ -9,5 +9,6 @@
 | João Pedro | Silva  | <https://github.com/Joao-Pedro12> | <https://www.linkedin.com/in/jo%C3%A3o-pedro-869340186/>
 | Larissa | Santos | <https://github.com/Larii127> | <https://www.linkedin.com/in/larissa-santos-a2873a217/> |
 | Paulo | Renan | <https://github.com/PauloRenanB> | <https://www.linkedin.com/in/paulorenanb/> |
+| Remerson | Rodrigues | <https://github.com/RemersonRM> | <https://www.linkedin.com/in/remerson-rodrigues-996838155/> |
 | Thais | Vale | <https://github.com/tthaisvale> | <https://www.linkedin.com/in/tthaisbvale/> |
 |||||
