@@ -1,8 +1,11 @@
 Cimário Medeiros  
 https://github.com/cimarioazevedomedeiros  
-Edilson Maria
+
+Edilson Maria  
 https://github.com/EdilsonMaria
-Nayara Nascimento
+
+Nayara Nascimento  
 https://github.com/NayaraSN 
- Gustavo Carreira  
- https://github.com/guscarreira
+
+Gustavo Carreira   
+https://github.com/guscarreira
