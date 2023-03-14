@@ -4,5 +4,7 @@ Link: https://github.com/YassKth
 Nome: Arthur Filipe  
 Link: https://github.com/Arthurfili04  
 
+Nome: Felipe Pereira   
+Link: https://github.com/fenyxpnt
 
   
